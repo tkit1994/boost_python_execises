@@ -1,0 +1,2 @@
+PYTHON_ADD_MODULE(fnb fnb.cpp)
+FILE(COPY fnb.py DESTINATION .)

@@ -1,0 +1,12 @@
+*.so
+*.o
+*.out
+
+__pycache__
+.vscode
+
+*.cmake
+*.make
+CMakeFiles
+
+build
